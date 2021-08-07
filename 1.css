@@ -1,0 +1,12 @@
+.container p:nth-child(3) {
+  color: red;
+  background-color: black;
+}
+
+/* Or if we know that there will be 3 paragraphs in total  */
+
+/* .container p:last-child {
+  color: red;
+  background-color: black;
+} */
+
